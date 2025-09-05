@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         body: const Center(
           child: Text(
             "Mochammad Wahyu Afifudin Zuhri",
-            style: TextStyle(fontSize: 30),
+            style: TextStyle(fontSize: 24),
           ),
         ),
       ),
